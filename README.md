@@ -1,4 +1,4 @@
-# Projeto GitHub Certification - DIO
+# Projeto de Estudos: _Copilotando_ Python
 
 Neste repositório, entrego um projeto solicitado para prosseguir com os estudos na Formação GitHub Certification da DIO. Meu objetivo foi produzir códigos Python utilizando o GitHub Copilot. _De forma descontraída, estarei usando os termos "copilotando" e "copilotados" kkkk._
 
